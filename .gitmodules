@@ -1,0 +1,4 @@
+[submodule "Testing"]
+	path = Testing
+	url = https://github.com/eedmond/Testing.git
+	branch = A
